@@ -5,7 +5,8 @@
       <div class="row">
         <div class="col-md-4">
           <h5 class="text-light">Correo</h5>
-          <p class="text-white paragraph-lg font-secondary">{{ site.data.settings.email }}</p>
+          {% assign email = site.data.settings.contact-email | split: '@' %}
+          <p class="text-white paragraph-lg font-secondary"><a href="javascript:window.open('mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'))">{{ site.data.settings.email }}</a></p>
         </div>
         <div class="col-md-4">
           <h5 class="text-light">Teléfono</h5>
