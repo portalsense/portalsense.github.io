@@ -1,17 +1,17 @@
 #-------------------------------
 # General Site Settings
 
-title: PortalSense - Realidad Virtual y Analítica de Datos
+title: PortalSense | XR + Machine Learning
 logo: icon/logo.png
 email: info@portalsense.com
 phone: +57 313 737 1561
 address: Manizales, Colombia.
 
 menu:
-- {name: About, link: '/about/'}
+- {name: Portafolio, link: '/portafolio/'}
 - {name: Blog, link: '/blog/'}
-- {name: Portfolio, link: '/portfolio/'}
-- {name: Contact, link: '/contact/'}
+- {name: Contacto, link: '/contacto/'}
+- {name: Acerca de, link: '/about/'}
 
 
 #-------------------------------
@@ -123,7 +123,7 @@ education:
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: Servicios
 services:
 - {
     name: UI Design,
@@ -150,6 +150,7 @@ services:
 # Portfolio (Section and Page)
 
 # Portfolio Home Section
+portfolio-title: Portafolio
 portfolio-home-items:
   - image : "assets/images/portfolio/item-1.png"
     url: "#"
@@ -235,7 +236,7 @@ portfolio-items:
 
 #-------------------------------
 # Testimonials Section
-
+testimonials-title: Testimonios
 testimonial-items:
   - name: "Jesica Gomez"
     image: "assets/images/testimonial/client-1.png"
