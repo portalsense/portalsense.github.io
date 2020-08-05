@@ -1,5 +1,5 @@
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.portalsense.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://luiseduve.github.io/portalsense_website/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
