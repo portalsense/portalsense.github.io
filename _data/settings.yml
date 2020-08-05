@@ -1,11 +1,11 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross - Jekyll Portfolio Template
-logo: logo.png
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+title: PortalSense - Realidad Virtual y Analítica de Datos
+logo: icon/logo.png
+email: info@portalsense.com
+phone: +57 313 737 1561
+address: Manizales, Colombia.
 
 menu:
 - {name: About, link: '/about/'}
@@ -35,13 +35,14 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Experiencias Virtuales para Proyectos Inmobiliarios
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+- {icon: "ti-facebook", link: "https://www.fb.com/PortalSense1/"}
+- {icon: "ti-linkedin", link: "https://www.linkedin.com/company/portalsense/"}
+#- {icon: "ti-instagram", link: "#"}
+#- {icon: "ti-dribbble", link: "#"}
+#- {icon: "ti-twitter", link: "#"}
 
 
 #-------------------------------
@@ -290,4 +291,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: info@portalsense.com
