@@ -8,10 +8,10 @@ phone: +57 313 737 1561
 address: Manizales, Colombia.
 
 menu:
-- {name: Portafolio, link: '/portafolio/'}
-- {name: Blog, link: '/blog/'}
-- {name: Contacto, link: '/contacto/'}
-- {name: Acerca de, link: '/about/'}
+- {name: Portafolio, link: '/portafolio.html'}
+- {name: Blog, link: '/blog.html'}
+- {name: Contacto, link: '/contacto.html'}
+# - {name: Acerca de, link: '/about.html'}
 
 
 #-------------------------------
@@ -24,7 +24,6 @@ menu:
 
 google-analytics: UA-175200229-1
 
-
 #-------------------------------
 # Comment Section (Disqus)
 
@@ -35,7 +34,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Experiencias Virtuales para Proyectos Inmobiliarios
+  hero-title: Experiencias en Realidad Virtual para Negocios, Industria y Salud.
 
 social:
 - {icon: "ti-facebook", link: "https://www.fb.com/PortalSense1/"}
@@ -50,31 +49,15 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
-  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute 
-  irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  🚧 <b>Idea en construcción...</b> 🚧 <br>
+  Muy pronto podrás encontrar detalles acerca del desarrollo de proyectos
+  en realidad virtual soportado por <b> inteligencia artificial </b>.
+  Útil para educación habilidades para la industria 👩‍💼, 
+  simulación de proyectos en construcción 👷‍♀️, o apoyo 
+  para rehabilitación física interactiva 👩‍⚕️.
 
-blurb-btn-link: '/about'
-blurb-btn-name: Leer más...
-
-
-# About Page
-
-# Work Process Section
-work-process:
-  - title : "Research and Plan"
-    icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
-  - title : "Design and Develop"
-    icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
-  - title : "Deliver"
-    icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
+blurb-btn-link: '/contacto.html'
+blurb-btn-name: Contáctanos...
 
 # My Team Section
 # team-title: Equipo
@@ -121,27 +104,35 @@ work-process:
 
 #-------------------------------
 # Services Section
+  # icons from Themify
 
-services-title: Servicios
+services-title: ¿Qué hacemos?
 services:
 - {
-    name: UI Design,
-    icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    name: Realidad Virtual,
+    icon: ti-video-camera,
+    description: 'Diseño y desarrollo de experiencias inmersivas e interactivas en 
+                  realidad virtual: Simulaciones de entrenamiento profesional, 
+                  prototipado de edificaciones rehabilitación en salud.',
     active: # Add true to select section
   }
 - {
-    name: UX Design,
-    icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    name: Investigación y Desarrollo,
+    icon: ti-rocket, # ti-panel,
+    description: 'Apoyo a equipos de I+D+i en la elaboración de proyectos 
+                  de investigación en tecnologías inmersivas (VR/AR/XR), 
+                  inteligencia artificial (AI/ML) e interacción 
+                  humano-computador (HCI)',
     active: true # Add true to select section
   }
 - {
-    name: Interaction Design,
-    icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    name: Analítica de Datos,
+    icon: ti-stats-up,
+    description: 'Reportes descriptivos y modelos predictivos de 
+                  comportamiento de usuarios durante la experiencia.',
     active: # Add true to select section
   }
+
 
 
 
@@ -174,7 +165,7 @@ portfolio-label:
     type : "VR"
   }
 - {
-    title : "Análisis Datos",
+    title : "Análisis de Datos",
     type : "data"
   }
 - {
@@ -231,13 +222,30 @@ portfolio-items:
 
 client-slider-items:
   - logo: "assets/images/clients-logo/client-valtierra.png"
-    url: "#"
+    url: "https://construoferta.co/constproyecto/28/show"
     
   - logo: "assets/images/clients-logo/client-cfc.png"
-    url: "#"
+    url: "http://cfcya.co/"
 
 #-------------------------------
 # Contact Section
 
 contact-title: Contacto
 contact-email: info@portalsense.com
+
+#-------------------------------
+# About Page
+
+# Work Process Section
+work-process:
+  - title : "Research and Plan"
+    icon : "assets/images/icons/plan.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    
+  - title : "Design and Develop"
+    icon : "assets/images/icons/design.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    
+  - title : "Deliver"
+    icon : "assets/images/icons/print.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
