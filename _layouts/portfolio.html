@@ -1,13 +1,12 @@
 ---
 layout: default
 ---
-
 <!-- page title -->
 <section class="page-title bg-primary position-relative">
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <h1 class="text-white font-tertiary">{{ page.title }}</h1>
+        <h1 class="text-white font-tertiary">{{ page.title | escape }}</h1>
       </div>
     </div>
   </div>
@@ -16,10 +15,23 @@ layout: default
   <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-pink-round.png" alt="illustrations" class="bg-shape-2">
   <img src="{{ site.baseurl }}/assets/images/illustrations/dots-cyan.png" alt="illustrations" class="bg-shape-3">
   <!-- <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-orange.png" alt="illustrations" class="bg-shape-4"> -->
-  <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-yellow.png" alt="illustrations" class="bg-shape-5">
+  <!-- <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-yellow.png" alt="illustrations" class="bg-shape-5"> -->
   <img src="{{ site.baseurl }}/assets/images/illustrations/dots-group-cyan.png" alt="illustrations" class="bg-shape-6">
-  <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-cyan-lg.png" alt="illustrations" class="bg-shape-7">
+  <!-- <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-cyan-lg.png" alt="illustrations" class="bg-shape-7"> -->
 </section>
 <!-- /page title -->
 
-{{ content }}
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <!-- <h3 class="font-tertiary mb-5">{{ page.title | escape }}</h3> -->
+        <p class="font-secondary">Publicado: {{ page.date | date: '%b %d, %Y' }} por <span class="text-primary">{{ page.author }}</span
+            class="text-primary"> en {% for tag in page.tags %}<span>{{ tag }} </span>{% endfor %}</p>
+        <div class="content">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

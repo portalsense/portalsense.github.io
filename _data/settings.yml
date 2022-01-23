@@ -1,16 +1,16 @@
 #-------------------------------
 # General Site Settings
 
-title: PortalSense | XR + Machine Learning
+title: PortalSense | Realidad Virtual
 logo: icon/logo.png
 email: info@portalsense.com
 phone: +57 313 737 1561
 address: Manizales, Colombia.
 
 menu:
-- {name: Portafolio, link: '/portafolio.html'}
-- {name: Blog, link: '/blog.html'}
-- {name: Contacto, link: '/contacto.html'}
+- {name: Portafolio, link: '/portafolio'}
+- {name: Blog, link: '/blog'}
+- {name: Contacto, link: '/contacto'}
 # - {name: Acerca de, link: '/about.html'}
 
 
@@ -37,9 +37,9 @@ hero:
   hero-title: Experiencias en Realidad Virtual para Negocios, Industria y Salud.
 
 social:
-- {icon: "ti-facebook", link: "https://www.fb.com/PortalSense1/"}
+- {icon: "ti-facebook", link: "https://www.facebook.com/portalsense.xr/"}
+- {icon: "ti-instagram", link: "https://www.instagram.com/portalsense.xr/"}
 - {icon: "ti-linkedin", link: "https://www.linkedin.com/company/portalsense/"}
-#- {icon: "ti-instagram", link: "#"}
 #- {icon: "ti-dribbble", link: "#"}
 #- {icon: "ti-twitter", link: "#"}
 
@@ -49,15 +49,15 @@ social:
 
 # About Section
 blurb:
-  🚧 <b>Idea en construcción...</b> 🚧 <br>
-  Muy pronto podrás encontrar detalles acerca del desarrollo de proyectos
-  en realidad virtual soportado por <b> inteligencia artificial </b>.
-  Útil para educación habilidades para la industria 👩‍💼, 
-  simulación de proyectos en construcción 👷‍♀️, o apoyo 
-  para rehabilitación física interactiva 👩‍⚕️.
+  
+  En PortalSense ofrecemos acceso a un <b> portafolio de nuevos proyectos inmobiliarios </b> en la ciudad a través de nuestra tecnología de <b>realidad virtual</b> y <b>metaversos</b> 😎. 
+  Revolucionamos la forma de diseñar y vender viviendas nuevas!
+  🚧🔨 Reemplazamos renders y videos de futuros proyectos con entornos virtuales que te permiten experimentar tu futuro hogar al más mínimo detalle, y caminar en las viviendas incluso antes de que se empiecen a construir. <br><br>
+  🏠 Si estás <b>interesado en comprar vivienda nueva</b>, visita nuestra oficina para vivir una experiencia inmersiva con nuestro portafolio de proyectos disponibles. <br>
+  👷‍♀️ <b>Empresas constructoras</b> nos pueden contactar para incluir sus proyectos inmobiliarios en nuestro portafolio.
 
-blurb-btn-link: '/contacto.html'
-blurb-btn-name: Contáctanos...
+blurb-btn-link: '/contacto'
+blurb-btn-name: Click para contactarnos
 
 # My Team Section
 # team-title: Equipo
@@ -108,31 +108,32 @@ blurb-btn-name: Contáctanos...
 
 services-title: ¿Qué hacemos?
 services:
+
 - {
-    name: Realidad Virtual,
-    icon: ti-video-camera,
-    description: 'Diseño y desarrollo de experiencias inmersivas e interactivas en 
-                  realidad virtual: Simulaciones de entrenamiento profesional, 
-                  prototipado de edificaciones rehabilitación en salud.',
+    name: Promoción inmobiliaria,
+    icon: ti-home, # ti-panel,
+    description: 'Si estás interesado en comprar vivienda nueva, visita nuestra oficina 
+                para vivir una experiencia inmersiva que te permiten experimentar tu futuro
+                hogar al mínimo detalle, y caminar en las viviendas incluso antes de que 
+                se empiecen a construir.',
     active: # Add true to select section
   }
 - {
-    name: Investigación y Desarrollo,
-    icon: ti-rocket, # ti-panel,
-    description: 'Apoyo a equipos de I+D+i en la elaboración de proyectos 
-                  de investigación en tecnologías inmersivas (VR/AR/XR), 
-                  inteligencia artificial (AI/ML) e interacción 
-                  humano-computador (HCI)',
+    name: VR Cities,
+    icon: ti-eye, #ti-video-camera,
+    description: 'Nuestra plataforma VR Cities revoluciona la forma de diseñar y vender 
+                  viviendas nuevas. A través de realidad virtual y un metaverso personalizado
+                  puedes ver, caminar y sentir los espacios a construir en tu ciudad en el futuro.',
     active: true # Add true to select section
   }
 - {
-    name: Analítica de Datos,
-    icon: ti-stats-up,
-    description: 'Reportes descriptivos y modelos predictivos de 
-                  comportamiento de usuarios durante la experiencia.',
+    name: Servicio a constructoras,
+    icon: ti-map-alt,
+    description: 'Empresas constructoras nos pueden contactar para incluir sus 
+                proyectos inmobiliarios en nuestro portafolio reemplazamos antiguos renders y videos 
+                de futuros proyectos con entornos interactivos virtuales en un metaverso de ciudad.',
     active: # Add true to select section
   }
-
 
 
 
@@ -145,18 +146,14 @@ portfolio-home-items:
   - image : "assets/images/vr/vr-woman.png"
     url: "https://cfcya.co/conoce-mas-de-amarello-con-realidad-virtual/"
     
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+  - image : "assets/images/portfolio/amarello-vr-cfc.jpg"
+    url: "/portafolio/2019-06-30-cfcya-amarello"
     
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    
+  - image : "assets/images/portfolio/valtierra-vr.jpg"
+    url: "/portafolio/2019-08-30-valtierra"
+
   - image : "assets/images/portfolio/item-4.png"
     url: "#"
-    
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
-
 
 # Portfolio Page
 portfolio-label:
@@ -165,36 +162,38 @@ portfolio-label:
     type : "VR"
   }
 - {
-    title : "Análisis de Datos",
-    type : "data"
+    title : "Metaverso",
+    type : "metaverso"
   }
 - {
-    title : "AEC",
-    type : "AEC"
+    title : "Vivienda",
+    type : "vivienda"
   }
+
 
 portfolio-items:
   - image : "assets/images/vr/vr-woman.png"
     url: "https://cfcya.co/conoce-mas-de-amarello-con-realidad-virtual/"
     portfolio-type:
-     - type: "AEC"
      - type: "VR"
+     - type: "vivienda"
       
-  - image : "assets/images/portfolio/item-2.png"
+  - image : "assets/images/portfolio/amarello-vr-cfc.jpg"
+    url: "/portafolio/2019-06-30-cfcya-amarello"
+    portfolio-type:
+      - type: "VR"
+      - type: "vivienda"
+
+  - image : "assets/images/portfolio/valtierra-vr.jpg"
+    url: "/portafolio/2019-08-30-valtierra"
+    portfolio-type:
+      - type: "VR"
+      - type: "vivienda"
+      
+  - image : "assets/images/portfolio/item-4.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-      
-  - image : "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "branding"
+      - type: "metaverso"
 
 
 # #-------------------------------

@@ -13,9 +13,14 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
+  - scope:
+      path: '_portfolio'
+    values:
+      permalink: /portafolio/:basename:output_ext
 
 include:
   - _pages
+  - _portfolio
 
 sass:
   sass_dir: _sass

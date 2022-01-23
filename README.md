@@ -19,3 +19,9 @@ I recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployme
 - Copyright Themefisher (https://themefisher.com/) [Live Preview](http://demo.themefisher.com/kross)
 - Licensed under [MIT](https://github.com/themefisher/kross-jekyll-portfolio-template/blob/master/LICENSE.txt)
 
+## Credits:
+
+- Icons:
+  - <a href="https://www.flaticon.com/free-icons/vr" title="vr icons">Vr icons created by Smashicons - Flaticon</a>
+  - <a href="https://www.flaticon.com/free-icons/360-view" title="360 view icons">360 view icons created by Pixel perfect - Flaticon</a>
+  - <a href="https://www.flaticon.com/free-icons/home" title="home icons">Home icons created by Dave Gandy - Flaticon</a>
