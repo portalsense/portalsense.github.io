@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: PortalSense | Realidad Virtual
+title: PortalSense | Realidad Virtual para Construcción
 logo: icon/logo.png
 email: info@portalsense.com
 phone: +57 313 737 1561
@@ -34,7 +34,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Experiencias en Realidad Virtual para Negocios, Industria y Salud.
+  hero-title: Visualizamos las ciudades del futuro en metaversos con realidad virtual (VR) y extendida (XR).
 
 social:
 - {icon: "ti-facebook", link: "https://www.facebook.com/portalsense.xr/"}
