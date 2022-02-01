@@ -14,12 +14,17 @@
           <img src="{{ site.baseurl }}/{{ item.image }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
           <div class="hover-overlay">
             <div class="hover-content">
-              <a class="btn btn-light btn-sm" href="{{ item.url }}">ver proyecto</a>
+              <a class="btn btn-light btn-sm" href="{{ item.url }}">Ver más</a>
             </div>
           </div>
         </div>
       </div>
       {% endfor %}
+    </div>
+    <div class="row">
+      <div class="col-lg-10 mx-auto text-center">
+        <a href="{{ site.data.settings.menu[0].link }}" class="btn btn-transparent"> Ver Portafolio... </a>
+      </div>
     </div>
   </div>
 </section>

@@ -9,7 +9,7 @@ title: Portafolio
       <div class="col-12">
         <div class="btn-group btn-group-toggle justify-content-center d-flex" data-toggle="buttons">
           <label class="btn btn-sm btn-primary active">
-            <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
+            <input type="radio" name="shuffle-filter" value="all" checked="checked" />Todo
           </label>
           {% for label in site.data.settings.portfolio-label %}
           <label class="btn btn-sm btn-primary">
@@ -26,7 +26,7 @@ title: Portafolio
           <img src="{{ site.baseurl }}/{{ item.image }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
           <div class="hover-overlay">
             <div class="hover-content">
-              <a class="btn btn-light btn-sm" href="{{ item.url }}">ver proyecto</a>
+              <a class="btn btn-light btn-sm" href="{{ item.url }}">Ver más</a>
             </div>
           </div>
         </div>
@@ -42,7 +42,7 @@ title: Portafolio
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <h2 class="section-title">Clientes</h2>
+        <h2 class="section-title">Nuestros Clientes</h2>
       </div>
     </div>
     {% include client-slider.html %}

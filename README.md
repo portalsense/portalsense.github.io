@@ -8,6 +8,11 @@ Install bundler by running:
 >> gem install jekyll bundler
 ```
 
+## Tags
+
+Portfolio: `VR | proyectos | eventos`
+Blog: `VR | XR | metaverso | AEC`
+
 ## Deployment
 
 To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
@@ -22,6 +27,6 @@ I recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployme
 ## Credits:
 
 - Icons:
-  - <a href="https://www.flaticon.com/free-icons/vr" title="vr icons">Vr icons created by Smashicons - Flaticon</a>
+  - <a href="https://www.flaticon.com/free-icons/vr" title="vr icons">VR icons created by Smashicons - Flaticon</a>
   - <a href="https://www.flaticon.com/free-icons/360-view" title="360 view icons">360 view icons created by Pixel perfect - Flaticon</a>
   - <a href="https://www.flaticon.com/free-icons/home" title="home icons">Home icons created by Dave Gandy - Flaticon</a>

@@ -57,9 +57,10 @@ blurb:
   👷‍♀️ <b>Empresas constructoras</b> nos pueden contactar para incluir sus proyectos inmobiliarios en nuestro portafolio.
 
 blurb-btn-link: '/contacto'
-blurb-btn-name: Click para contactarnos
+blurb-btn-name: Contáctanos!
 
 # My Team Section
+
 # team-title: Equipo
 # team:
 #   - title : "Luis Quintero"
@@ -146,54 +147,59 @@ portfolio-home-items:
   - image : "assets/images/vr/vr-woman.png"
     url: "https://cfcya.co/conoce-mas-de-amarello-con-realidad-virtual/"
     
-  - image : "assets/images/portfolio/amarello-vr-cfc.jpg"
+  - image : "assets/images/portfolio/proyectos/amarello-vr-2.jpg"
     url: "/portafolio/2019-06-30-cfcya-amarello"
     
-  - image : "assets/images/portfolio/valtierra-vr.jpg"
+  - image : "assets/images/portfolio/proyectos/valtierra-vr.jpg"
     url: "/portafolio/2019-08-30-valtierra"
 
-  - image : "assets/images/portfolio/item-4.png"
-    url: "#"
+  - image : "assets/images/portfolio/eventos/2018-09-01-mallplaza.jpg"
+    url: "/portafolio/2018-09-01-demo-mall-plaza"
 
 # Portfolio Page
 portfolio-label:
 - {
-    title : "Realidad Virtual",
+    title : "Realidad Virtual",   # Reservado para futuros proyectos con VR cities
     type : "VR"
   }
 - {
-    title : "Metaverso",
-    type : "metaverso"
+    title : "Eventos",
+    type : "eventos"
   }
 - {
-    title : "Vivienda",
-    type : "vivienda"
+    title : "Proyectos",
+    type : "proyectos"
   }
 
 
 portfolio-items:
-  - image : "assets/images/vr/vr-woman.png"
-    url: "https://cfcya.co/conoce-mas-de-amarello-con-realidad-virtual/"
-    portfolio-type:
-     - type: "VR"
-     - type: "vivienda"
+  # - image : "assets/images/vr/vr-woman.png"
+  #   url: "https://cfcya.co/conoce-mas-de-amarello-con-realidad-virtual/"
+  #   portfolio-type:
+  #    - type: "VR"
+  #    - type: "proyectos"
       
-  - image : "assets/images/portfolio/amarello-vr-cfc.jpg"
-    url: "/portafolio/2019-06-30-cfcya-amarello"
+  - image : "assets/images/portfolio/proyectos/amarello-vr-2.jpg"
+    url: "/portafolio/2019-06-30-proyecto-cfcya-amarello"
     portfolio-type:
       - type: "VR"
-      - type: "vivienda"
+      - type: "proyectos"
 
-  - image : "assets/images/portfolio/valtierra-vr.jpg"
-    url: "/portafolio/2019-08-30-valtierra"
+  - image : "assets/images/portfolio/proyectos/valtierra-vr.jpg"
+    url: "/portafolio/2019-08-30-proyecto-valtierra"
     portfolio-type:
       - type: "VR"
-      - type: "vivienda"
+      - type: "proyectos"
       
-  - image : "assets/images/portfolio/item-4.png"
-    url: "#"
+  - image : "assets/images/portfolio/eventos/2018-09-01-mallplaza.jpg"
+    url: "/portafolio/2018-09-01-demo-mall-plaza"
     portfolio-type:
-      - type: "metaverso"
+      - type: "eventos"
+
+  - image : "assets/images/portfolio/eventos/2018-11-15-feria-construccion2.jpg"
+    url: "/portafolio/2018-11-15-feria-construccion-sena"
+    portfolio-type:
+      - type: "eventos"
 
 
 # #-------------------------------
@@ -209,42 +215,66 @@ portfolio-items:
 #     image: "assets/images/testimonial/client-1.png"
 #     designation: "CEO, Funder"
 #     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-    
-#   - name: "Jesica Gomez"
-#     image: "assets/images/testimonial/client-1.png"
-#     designation: "CEO, Funder"
-#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
 
 #-------------------------------
 # Client Slider Section
 
-client-slider-items:
-  - logo: "assets/images/clients-logo/client-valtierra.png"
-    url: "https://construoferta.co/constproyecto/28/show"
+# client-slider-items:
+  # - logo: "assets/images/clients-logo/client-valtierra.png"
+  #   url: "https://construoferta.co/constproyecto/28/show"
     
-  - logo: "assets/images/clients-logo/client-cfc.png"
-    url: "http://cfcya.co/"
+  # - logo: "assets/images/clients-logo/client-cfc.png"
+  #   url: "http://cfcya.co/"
+  
+client-slider-items:
+  - logo: "assets/images/clients-logo/client-logo-1.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/client-logo-2.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/client-logo-3.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/client-logo-4.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/client-logo-5.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/client-logo-1.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/client-logo-2.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/client-logo-3.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/client-logo-4.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/client-logo-5.png"
+    url: "#"
+
+# #-------------------------------
+# # Work Process Section
+# work-process:
+#   - title : "Research and Plan"
+#     icon : "assets/images/icons/plan.png"
+#     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    
+#   - title : "Design and Develop"
+#     icon : "assets/images/icons/design.png"
+#     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    
+#   - title : "Deliver"
+#     icon : "assets/images/icons/print.png"
+#     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
 
 #-------------------------------
 # Contact Section
 
 contact-title: Contacto
 contact-email: info@portalsense.com
-
-#-------------------------------
-# About Page
-
-# Work Process Section
-work-process:
-  - title : "Research and Plan"
-    icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
-  - title : "Design and Develop"
-    icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
-  - title : "Deliver"
-    icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."

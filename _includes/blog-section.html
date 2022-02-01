@@ -3,7 +3,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <h2 class="section-title">Blogs</h2>
+        <h2 class="section-title">Blog</h2>
       </div>
       {% for post in site.posts offset:0 limit:3 %}
       <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
@@ -12,12 +12,17 @@
           <div class="card-body">
             <h4 class="card-title"><a class="text-dark" href="{{ post.url | relative_url }}">{{post.title}}</a>
             </h4>
-            <p class="cars-text">Texto</p>
+            <p class="cars-text">{{post.short}}</p>
             <a href="{{ post.url | relative_url }}" class="btn btn-xs btn-primary">Leer más</a>
           </div>
         </article>
       </div>
       {% endfor %}
+    </div>
+    <div class="row">
+      <div class="col-lg-10 mx-auto text-center">
+        <a href="{{ site.data.settings.menu[1].link }}" class="btn btn-transparent"> Ver Blog... </a>
+      </div>
     </div>
   </div>
 </section>
