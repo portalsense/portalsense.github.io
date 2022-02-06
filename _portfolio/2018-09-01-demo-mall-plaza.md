@@ -1,0 +1,19 @@
+---
+layout: portfolio
+title:  Evento - Feria Inmobiliaria Mall Plaza
+date:   2018-09-01 09:00:00 -0500
+image:  /assets/images/portfolio/demo/2018-09-01-mallplaza.jpg
+author: PortalSense
+tags:   VR - Eventos
+---
+
+![mallplaza-vitrina-inmobiliaria]({{site.baseurl}}/assets/images/portfolio/eventos/2018-09-01-mallplaza.jpg){:class="img-fluid rounded float-left mr-5 mb-4"}
+
+### Demostración en Centro Comercial Mall Plaza
+
+PortalSense asistió a la 20° vitrina inmobiliaria de Camacol realizada en la inauguración del Centro Comercial Mall Plaza Manizales.
+
+En esta feria, en PortalSense construimos uno de los primeros espacios de inmersión en realidad virtual orientado a la visualización de proyectos inmobiliarios. Más de 100 personas probaron nuestra solución, incluyendo personas interesadas en comprar vivienda y asistentes comerciales de empresas de construcción interesadas en adaptar sus campañas de comunicación de proyectos de construcción con tecnología inmersiva.
+
+||
+|![vitrina-camacol]({{site.baseurl}}/assets/images/portfolio/eventos/2018-09-01-vitrina-camacol.jpg){:width="100%"}|

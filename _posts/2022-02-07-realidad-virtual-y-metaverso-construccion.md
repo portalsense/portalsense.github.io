@@ -6,7 +6,7 @@ date:   2022-01-07 09:00:00 -0500
 image:  post-1.jpg
 author: Luis Quintero
 tags:   VR, XR, AEC
-published: true
+published: false
 ---
 
 ![post-thumb]({{site.baseurl}}/assets/images/blog/post-1.jpg){:class="img-fluid rounded float-left mr-5 mb-4"}

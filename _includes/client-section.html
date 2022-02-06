@@ -1,7 +1,14 @@
-<!-- client logo slider -->
+{% if site.data.settings.client-slider-items %}
+<!-- clients -->
 <section class="section pb-0">
   <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">Nuestros Clientes</h2>
+      </div>
+    </div>
     {% include client-slider.html %}
   </div>
 </section>
-<!-- /client logo slider -->
+<!-- /clients -->
+{% endif %}

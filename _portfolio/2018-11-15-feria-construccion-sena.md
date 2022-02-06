@@ -1,19 +1,22 @@
 ---
 layout: portfolio
 title:  Evento - Feria Construcción SENA
-date:   2018-11-15 09:00:00 -0500
+date:   2019-11-15 09:00:00 -0500
 image:  /assets/images/portfolio/eventos/2018-11-15-feria-construccion2.jpg
 author: PortalSense
 tags:   VR - Eventos
 ---
 
+### Demostración en Feria de la Industria y la Construcción
 
-### Demostración en Feria de la Construcción SENA
+PortalSense estuvo presente en la feria de la industria y la construcción organizada por el SENA Caldas en Expoferias para mejorar el relacionamiento entre academia, ciencia y empresas de estos sectores.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
-
+Durante cuatro días, PortalSense pudo mostrar su sistema de visualización arquitectónica a múltiples empresas relacionadas al sector de la construcción. Incluyendo proveedores, arquitectos, y constructoras. Alrededor de 80 personas probaron nuestra solución, muchas de ellas probaron realidad virtual por primera vez y disfrutando de las ventajas que ofrece la tecnología inmersiva para la comunicación de proyectos inmobiliarios.
 
 |||
 |---|---|
 |![feria-sena1]({{site.baseurl}}/assets/images/portfolio/eventos/2018-11-15-feria-construccion.jpg){:class="img-fluid rounded float-left mr-5 mb-4"}|![feria-sena2]({{site.baseurl}}/assets/images/portfolio/eventos/2018-11-15-feria-construccion2.jpg){:class="img-fluid rounded float-left mr-5 mb-4"; width="40%"}|
 
+||
+|---|
+|![feria-sena]({{site.baseurl}}/assets/images/portfolio/eventos/2018-11-07-feria-construccion-sena.jpg){:width="100%"}|

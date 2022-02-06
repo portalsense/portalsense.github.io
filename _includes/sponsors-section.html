@@ -1,0 +1,18 @@
+{% if site.data.settings.sponsors-items %}
+<!-- sponsors -->
+<section class="section pb-0">
+  <div class="container">
+    <!-- <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">Nos Apoyan</h2>
+      </div>
+    </div> -->
+    <div class="client-logo-slider d-flex align-items-center">
+      {% for slider-item in site.data.settings.sponsors-items %}
+      <a href="{{ slider-item.url }}" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="{{ site.baseurl }}/{{ slider-item.logo }}" alt="sponsor-logo"></a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- /sponsors -->
+{% endif %}
