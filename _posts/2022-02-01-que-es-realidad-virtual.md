@@ -3,7 +3,7 @@ layout: post
 title:  Realidad virtual ¿qué es y cuáles son sus aplicaciones?
 short:  Conoce lo básico de realidad virtual (VR) y extendida (XR)
 date:   2022-02-01 09:00:00 -0500
-image:  2022-01-10-realidad-virtual.jpg
+image:  1-realidad-virtual.jpg
 author: Luis Quintero
 tags:   VR, XR
 published: true
@@ -19,5 +19,5 @@ Aunque VR apenas está incursionando poco a poco al mercado masivo desde el 2012
 
 Los sistemas VR se consideran novedosos, pero sorprendentemente no son nuevos. Universidades, centros especializados y gobierno han utilizado VR por décadas, por ejemplo, para actividades de preparación militar. Todos estos proyectos fueron costosos prototipos que no lograban generar entornos suficientemente realistas, sobretodo por la alta demanda computacional que requiere generar imágenes inmersivas en visores VR.
 
-![post-thumb]({{site.baseurl}}/assets/images/blog/2022-01-10-realidad-virtual.jpg){:class="img-fluid rounded float-left mr-5 mb-4"}
+![post-thumb]({{site.baseurl}}/assets/images/blog/1-realidad-virtual.jpg){:class="img-fluid rounded float-left mr-5 mb-4"}
 
