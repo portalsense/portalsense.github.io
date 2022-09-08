@@ -18,11 +18,11 @@ menu:
 # Google Analytics Section
 
 # Analytics helps you understand who visits your website.
-# Learn more at: http://support.google.com/analytics/answer/1008065
+# Learn more at: https://support.google.com/tagmanager/answer/6102821
 
-# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your Google Tag Manager.
 
-google-analytics: UA-175200229-1
+google-analytics: G-PR6BSK9SBR
 
 #-------------------------------
 # Comment Section (Disqus)
@@ -34,14 +34,14 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Visualizamos las ciudades del futuro en metaversos con realidad virtual (VR) y extendida (XR).
+  hero-title: Traemos al presente las ciudades del futuro con realidad virtual (VR) y extendida (XR).
 
 social:
 - {icon: "ti-facebook", link: "https://www.facebook.com/portalsense.xr/"}
 - {icon: "ti-instagram", link: "https://www.instagram.com/portalsense.xr/"}
 - {icon: "ti-linkedin", link: "https://www.linkedin.com/company/portalsense/"}
 - {icon: "ti-twitter", link: "https://twitter.com/portalsenseXR/"}
-- {icon: "ti-tiktok", link: "https://tiktok.com/@portalsense/"}
+- {icon: "ti-tumblr", link: "https://tiktok.com/@portalsense/"}
 
 
 #-------------------------------
