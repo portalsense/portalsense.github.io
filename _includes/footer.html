@@ -4,12 +4,18 @@
     <div class="container">
       <div class="row">
         <div class="col-md-4">
+          <p class="text-light">Links</p>
+          <p><a href="{{ site.data.settings.link-media-kit }}" target="_blank">Media Kit</a></p>
+          <p></p>
+          <!-- Below is the link that users can use to open Preferences Center to change their preferences. Do not modify the ID parameter. Place it where appropriate, style it as needed. -->
+          <p><a href="#" id="open_preferences_center">Actualizar cookies</a></p>
+        </div>
+        <div class="col-md-4">
           <h5 class="text-light">Correo</h5>
           {% assign email = site.data.settings.contact-email | split: '@' %}
           <p class="text-white paragraph-lg font-secondary"><a href="javascript:window.open('mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'))">{{ site.data.settings.email }}</a></p>
-        </div>
-        <div class="col-md-4">
-          <h5 class="text-light">Teléfono</h5>
+
+          <h5 class="text-light">Celular / WhatsApp</h5>
           <p class="text-white paragraph-lg font-secondary">{{ site.data.settings.phone }}</p>
         </div>
         <div class="col-md-4">
@@ -26,7 +32,7 @@
         document.write(CurrentYear)
       </script>
       <!-- a theme by <a href="https://themefisher.com/">themefisher.com</a> -->
-    </p> 
+    </p>     
   </div>
 </footer>
 <!-- /footer -->

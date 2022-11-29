@@ -8,6 +8,8 @@ email: info@portalsense.com
 phone: +57 320 528 0560
 address: Carrera 21#64A-33 (Of. 803).<br> Multiplaza El Cable. <br> Manizales, Colombia.
 
+link-media-kit: https://drive.google.com/drive/folders/1ndBkvmzEI6SrGtW--L29E6BXpM0yhBUZ?usp=share_link
+
 menu:
 - {name: Portafolio, link: '/portafolio'}
 - {name: Blog, link: '/blog'}
@@ -50,7 +52,6 @@ social:
 
 # About Section
 blurb:
-  
   En PortalSense ofrecemos acceso a un <b> portafolio de nuevos proyectos inmobiliarios </b> en la ciudad a través de nuestra tecnología de <b>realidad virtual</b> y <b>metaversos</b> 😎. 
   Revolucionamos la forma de diseñar y vender viviendas nuevas!
   🚧🔨 Reemplazamos renders y videos de futuros proyectos con entornos virtuales que te permiten experimentar tu futuro hogar al más mínimo detalle, y caminar en las viviendas incluso antes de que se empiecen a construir. <br><br>
@@ -58,19 +59,32 @@ blurb:
   👷‍♀️ <b>Empresas constructoras</b> nos pueden contactar para incluir sus proyectos inmobiliarios en nuestro portafolio.
 
 blurb-btn-link: '/contacto'
-blurb-btn-name: Contáctanos!
+blurb-btn-name: ¡Contáctanos!
 
 # My Team Section
 
-# team-title: Equipo
-# team:
-#   - title : "Luis Quintero"
-#     image : "assets/images/team/member-1.png"
-#     designation : "Coordinador de Desarrollo"
-    
-#   - title : "Jaime Aristizabal"
-#     image : "assets/images/team/member-2.png"
-#     designation : "Coordinador Administrativo"
+team-title: Equipo
+team:
+  - title : "Daniel Sanchez"
+    image : "assets/images/team/2-diseno-ds.png"
+    designation : "Gerencia | 3D"
+
+  - title : "Jaime Aristizabal"
+    image : "assets/images/team/1-proyectos-ja.png"
+    designation : "Proyectos"
+
+  - title : "Manuel Tirado"
+    image : "assets/images/team/4-mercadeo-mt.png"
+    designation : "Mercadeo"
+
+  - title : "Luz Sanchez"
+    image : "assets/images/team/3-internacional-as.png"
+    designation : "Internacional"
+
+  - title : "Luis Quintero"
+    image : "assets/images/team/5-tecnologia-lq.png"
+    designation : "Tecnología"
+
 
 #-------------------------------
 # Skills Section
