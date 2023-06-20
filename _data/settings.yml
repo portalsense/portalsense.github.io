@@ -5,8 +5,8 @@ title: PortalSense | Realidad Virtual para Construcción
 description: Desarrollamos entornos inmersivos en realidad virtual (VR) tipo metaverso para nuevos proyectos de construcción e infraestructura en Manizales y Colombia.
 logo: icon/logo.png
 email: info@portalsense.com
-phone: +57 320 528 0560
-address: Carrera 21#64A-33 (Of. 803).<br> Multiplaza El Cable. <br> Manizales, Colombia.
+phone: +57 315 885 8022
+address: Carrera 21#64A-33 (Of. 1002).<br> Multiplaza El Cable. <br> Manizales, Colombia.
 
 link-media-kit: https://drive.google.com/drive/folders/1ndBkvmzEI6SrGtW--L29E6BXpM0yhBUZ?usp=share_link
 
@@ -43,6 +43,7 @@ social:
 - {icon: "ti-facebook", link: "https://www.facebook.com/portalsense.xr/"}
 - {icon: "ti-instagram", link: "https://www.instagram.com/portalsense.xr/"}
 - {icon: "ti-linkedin", link: "https://www.linkedin.com/company/portalsense/"}
+- {icon: "ti-youtube", link: "https://youtube.com/@portalsense/"}
 - {icon: "ti-twitter", link: "https://twitter.com/portalsenseXR/"}
 - {icon: "ti-tumblr", link: "https://tiktok.com/@portalsense/"}
 
@@ -65,25 +66,25 @@ blurb-btn-name: ¡Contáctanos!
 
 team-title: Equipo
 team:
+  - title : "Luis Quintero"
+    image : "assets/images/team/5-tecnologia-lq.png"
+    designation : "Tecnología"
+
   - title : "Daniel Sanchez"
     image : "assets/images/team/2-diseno-ds.png"
-    designation : "Gerencia | 3D"
+    designation : "Arte 3D"
 
   - title : "Jaime Aristizabal"
     image : "assets/images/team/1-proyectos-ja.png"
     designation : "Proyectos"
 
-  - title : "Manuel Tirado"
-    image : "assets/images/team/4-mercadeo-mt.png"
-    designation : "Mercadeo"
+  # - title : "Manuel Tirado"
+  #   image : "assets/images/team/4-mercadeo-mt.png"
+  #   designation : "Mercadeo"
 
   - title : "Luz Sanchez"
     image : "assets/images/team/3-internacional-as.png"
     designation : "Internacional"
-
-  - title : "Luis Quintero"
-    image : "assets/images/team/5-tecnologia-lq.png"
-    designation : "Tecnología"
 
 
 #-------------------------------
