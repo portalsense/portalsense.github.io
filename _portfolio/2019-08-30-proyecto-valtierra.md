@@ -2,9 +2,9 @@
 layout: portfolio
 title:  Proyecto - Valtierra | Mediterráneo
 date:   2019-08-30 09:00:00 -0500
-image:  /assets/images/portfolio/valtierra-vr.jpg
+image:  /proyectos/valtierra-vr.jpg
 author: PortalSense
-tags:   VR - Proyectos
+tags:   VR, Proyectos
 ---
 
 

@@ -2,9 +2,9 @@
 layout: portfolio
 title:  Evento - Feria Construcción SENA
 date:   2019-11-15 09:00:00 -0500
-image:  /assets/images/portfolio/eventos/2018-11-15-feria-construccion2.jpg
+image:  /eventos/2018-11-15-feria-construccion2.jpg
 author: PortalSense
-tags:   VR - Eventos
+tags:   Eventos
 ---
 
 ### Demostración en Feria de la Industria y la Construcción

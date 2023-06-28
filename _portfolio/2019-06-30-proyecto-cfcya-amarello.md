@@ -2,9 +2,9 @@
 layout: portfolio
 title:  Proyecto - CFCyA | Amarello
 date:   2019-06-30 09:00:00 -0500
-image:  /assets/images/portfolio/proyectos/amarello-vr-cfc.jpg
+image:  /proyectos/amarello-vr-cfc.jpg
 author: PortalSense
-tags:   VR - Proyectos
+tags:   VR, Proyectos
 ---
 
 

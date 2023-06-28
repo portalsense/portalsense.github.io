@@ -2,9 +2,9 @@
 layout: portfolio
 title:  Evento - Feria Inmobiliaria Mall Plaza
 date:   2018-09-01 09:00:00 -0500
-image:  /assets/images/portfolio/demo/2018-09-01-mallplaza.jpg
+image:  /eventos/2018-09-01-mallplaza.jpg
 author: PortalSense
-tags:   VR - Eventos
+tags:   Eventos
 ---
 
 ![mallplaza-vitrina-inmobiliaria]({{site.baseurl}}/assets/images/portfolio/eventos/2018-09-01-mallplaza.jpg){:class="img-fluid rounded float-left mr-5 mb-4"}

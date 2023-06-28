@@ -13,20 +13,36 @@
         <div class="col-md-4">
           <h5 class="text-light">Correo</h5>
           {% assign email = site.data.settings.contact-email | split: '@' %}
-          <p class="text-white paragraph-lg font-secondary"><a href="javascript:window.open('mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'))">{{ site.data.settings.email }}</a></p>
+          <p class="text-white paragraph-lg font-secondary">
+            <a href="javascript:window.open('mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'))" style="color: white;">
+              {{ site.data.settings.email }}
+            </a>
+          </p>
 
           <h5 class="text-light">Celular / WhatsApp</h5>
-          <p class="text-white paragraph-lg font-secondary">{{ site.data.settings.phone }}</p>
+          <p class="text-white paragraph-lg font-secondary">
+            {% if site.data.settings.phone-link %}
+            <a href="{{ site.data.settings.phone-link }}" target="_blank" style="color: white;">{{ site.data.settings.phone }}</a>
+            {% else %}          
+            {{ site.data.settings.phone }}
+            {% endif %}
+          </p>
         </div>
         <div class="col-md-4">
           <h5 class="text-light">Visítanos</h5>
-          <p class="text-white paragraph-lg font-secondary">{{ site.data.settings.address }}</p>
+          <p class="text-white paragraph-lg font-secondary">
+            {% if site.data.settings.address-link %}
+            <a href="{{ site.data.settings.address-link }}" target="_blank" style="color: white;" >{{ site.data.settings.address }}</a>
+            {% else %}          
+            {{ site.data.settings.address }}
+            {% endif %}
+          </p>
         </div>
       </div>
     </div>
   </div>
   <div class="border-top text-center border-dark py-5">
-    <p class="mb-0 text-light">Copyright ©
+    <p class="mb-0 text-white">Copyright ©
       <script>
         var CurrentYear = new Date().getFullYear()
         document.write(CurrentYear)
