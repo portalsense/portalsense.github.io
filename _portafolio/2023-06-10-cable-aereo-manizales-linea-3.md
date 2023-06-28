@@ -1,10 +1,10 @@
 ---
 layout: portfolio
-title:  Cable Aéreo Manizales Línea 3 en realidad virtual inmersiva
+title:  Cable Aéreo Manizales - Línea 3
 date:   2023-06-10 09:00:00 -0500
 image:  /proyectos/cal3-vr.jpg
 author: Luis Quintero
-tags:   VR, Proyectos
+tags:   [VR, Proyectos]
 published: true
 ---
 
@@ -13,7 +13,7 @@ published: true
 
 Eso es lo que ha logrado la ciudad de Manizales, en Colombia, con la ayuda de la tecnología de realidad virtual (VR) de PortalSense.
 
-![Imagen por PortalSense]({{site.baseurl}}/assets/images/portfolio/proyects/cal3-vr.jpg){:class="img-fluid rounded col-md-6 float-left"}
+![Imagen por PortalSense]({{site.baseurl}}/assets/images/portfolio/proyectos/cal3-vr.jpg){:class="img-fluid rounded col-md-6 float-left"}
 
 El proyecto se trata de la línea de cable aéreo que comunicará una zona llamada El Cable con la estación los Cámbulos, beneficiando a miles de habitantes que podrán desplazarse de forma rápida y segura entre estos dos puntos. La obra tendrá una longitud de 3,3 kilómetros y contará con cuatro estaciones.
 

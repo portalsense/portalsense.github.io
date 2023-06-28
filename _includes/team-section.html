@@ -7,11 +7,11 @@
         <h2 class="section-title">{{ site.data.settings.team-title }}</h2>
       </div>
       {% for team-member in site.data.settings.team %}
-      <div class="col-md-2 col-sm-3 col-4 mb-2 mb-md-0">
+      <div class="col-md-3 col-sm-4 col-4 mb-2 mb-md-0">
         <div class="card text-center">
           <img src="{{ site.baseurl }}/{{ team-member.image }}" class="card-img-top">
           <div class="card-body">
-            <p class="card-title"><b>{{ team-member.title }}</b></p>
+            <p class="text-center"><b>{{ team-member.title }}</b></p>
             <p class="text-light font-secondary">{{ team-member.designation }}</p>
           </div>
         </div>

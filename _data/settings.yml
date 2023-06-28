@@ -93,7 +93,7 @@ team:
     image : "assets/images/team/6-arte3D-nr.png"
     designation : "Artista 3D"
   
-    - title : "Ana María Hincapié"
+  - title : "Ana María Hincapié"
     image : "assets/images/team/7-admin-amh.png"
     designation : "Asistente Admin"
 
@@ -188,43 +188,12 @@ portfolio-label:
   }
 - {
     title : "Eventos",
-    type : "eventos"
+    type : "Eventos"
   }
 - {
     title : "Proyectos",
-    type : "proyectos"
+    type : "Proyectos"
   }
-
-
-portfolio-items:
-  - image : "/proyectos/amarello-vr-2.jpg"
-    url: "/portafolio/2019-06-30-proyecto-cfcya-amarello"
-    portfolio-type:
-      - type: "VR"
-      - type: "proyectos"
-  - image : "/proyectos/valtierra-vr.jpg"
-    url: "/portafolio/2019-08-30-proyecto-valtierra"
-    portfolio-type:
-      - type: "VR"
-      - type: "proyectos"
-  - image : "/eventos/2018-09-01-mallplaza.jpg"
-    url: "/portafolio/2018-09-01-demo-mall-plaza"
-    portfolio-type:
-      - type: "eventos"
-  - image : "/eventos/2018-11-15-feria-construccion2.jpg"
-    url: "/portafolio/2018-11-15-feria-construccion-sena"
-    portfolio-type:
-      - type: "eventos"
-  - image : "/proyectos/cal3-vr.jpg"
-    url: "/portafolio/2023-06-10-cable-aereo-manizales-linea-3"
-    portfolio-type:
-      - type: "eventos"
-# - image : "assets/images/vr/vr-woman.png"
-#   url: "https://cfcya.co/conoce-mas-de-amarello-con-realidad-virtual/"
-#   portfolio-type:
-#    - type: "VR"
-#    - type: "proyectos"
-
 
 #-------------------------------
 # Testimonials Section
@@ -239,39 +208,25 @@ portfolio-items:
 #-------------------------------
 # Client Slider Section
 
-# client-slider-items:
-#   - logo: "assets/images/clients-logo/client-logo-1.png"
-#     url: "#"
+client-slider-items:
+  - logo: "assets/images/clients-logo/client-habitat360.png"
+    url: "https://www.instagram.com/torre360manizales/"
     
-#   - logo: "assets/images/clients-logo/client-logo-2.png"
-#     url: "#"
+  - logo: "assets/images/clients-logo/client-gi.png"
+    url: "https://gestoresinmobiliariosgi.com/"
     
-#   - logo: "assets/images/clients-logo/client-logo-3.png"
-#     url: "#"
+  - logo: "assets/images/clients-logo/client-cal3.png"
+    url: "https://linea3cableaereo.com/"
+  
+  - logo: "assets/images/clients-logo/client-cfc.png"
+    url: "#"
     
-#   - logo: "assets/images/clients-logo/client-logo-4.png"
-#     url: "#"
-    
-#   - logo: "assets/images/clients-logo/client-logo-5.png"
-#     url: "#"
-    
-#   - logo: "assets/images/clients-logo/client-logo-1.png"
-#     url: "#"
-    
-#   - logo: "assets/images/clients-logo/client-logo-2.png"
-#     url: "#"
-    
-#   - logo: "assets/images/clients-logo/client-logo-3.png"
-#     url: "#"
-    
-#   - logo: "assets/images/clients-logo/client-logo-4.png"
-#     url: "#"
-    
-#   - logo: "assets/images/clients-logo/client-logo-5.png"
-#     url: "#"
+  - logo: "assets/images/clients-logo/client-valtierra.png"
+    url: "#"
 
 # #-------------------------------
 # # Work Process Section
+
 # work-process:
 #   - title : "Research and Plan"
 #     icon : "assets/images/icons/plan.png"
