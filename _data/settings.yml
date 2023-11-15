@@ -40,7 +40,9 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Traemos al presente las ciudades del futuro con realidad virtual (VR) y extendida (XR).
+  # hero-title: Traemos al presente las ciudades del futuro con realidad virtual (VR) y extendida (XR).
+  hero-title: Hacemos tu nuevo proyecto de construcción más fácil de entender para tus clientes.
+
 
 social:
 - {icon: "ti-facebook", link: "https://www.facebook.com/portalsense.xr/"}
@@ -56,9 +58,10 @@ social:
 
 # About Section
 blurb:
-  En PortalSense digitalizamos tu proyecto de construcción con sistemas interactivos en realidad virtual (VR) tipo metaverso para que transmitas credibilidad y sorprendas a tus clientes al comprar la vivienda de sus sueños. <br><br>
-  ¡Revolucionamos la forma de diseñar y vender proyectos de construcción!<br>
-  Reemplazamos renders y videos de futuros proyectos con entornos virtuales que te permiten experimentar tu futuro hogar al más mínimo detalle, y caminar en las viviendas incluso antes de que se empiecen a construir.
+  Ayudamos a constructoras a vender sus nuevos proyectos con experiencias interactivas que mejoran la satisfacción de quienes compran sobre planos la vivienda de sus sueños.
+  # En PortalSense digitalizamos tu proyecto de construcción con sistemas interactivos en realidad virtual (VR) tipo metaverso para que transmitas credibilidad y sorprendas a tus clientes al comprar la vivienda de sus sueños. <br><br>
+  # ¡Revolucionamos la forma de diseñar y vender proyectos de construcción!<br>
+  # Reemplazamos renders y videos de futuros proyectos con entornos virtuales que te permiten experimentar tu futuro hogar al más mínimo detalle, y caminar en las viviendas incluso antes de que se empiecen a construir.
 
 blurb-btn-link: '/contacto'
 blurb-btn-name: ¡Contáctanos!
