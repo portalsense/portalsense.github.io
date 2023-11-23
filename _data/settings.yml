@@ -70,9 +70,6 @@ blurb-btn-name: ¡Contáctanos!
 
 team-title: Equipo
 team:
-  - title : "Luis Quintero"
-    image : "assets/images/team/5-tecnologia-lq.png"
-    designation : "Tecnología"
 
   - title : "Daniel Sanchez"
     image : "assets/images/team/2-diseno-ds.png"
@@ -80,15 +77,15 @@ team:
 
   - title : "Jaime Aristizabal"
     image : "assets/images/team/1-proyectos-ja.png"
-    designation : "Proyectos"
+    designation : "Operaciones"
+
+  - title : "Luis Quintero"
+    image : "assets/images/team/5-tecnologia-lq.png"
+    designation : "Tecnología"
 
   - title : "Luz Sanchez"
     image : "assets/images/team/3-internacional-as.png"
     designation : "Internacional"
-
-  - title : "Manuel Tirado"
-    image : "assets/images/team/4-mercadeo-mt.png"
-    designation : "Mercadeo"
 
   - title : "Nicolás Rios"
     image : "assets/images/team/6-arte3D-nr.png"
@@ -96,7 +93,16 @@ team:
   
   - title : "Ana María Hincapié"
     image : "assets/images/team/7-admin-amh.png"
-    designation : "Asistente Admin"
+    designation : "Administrativa"
+
+  - title : "Hernando Nieto"
+    image : "assets/images/team/8-dev-hnj.png"
+    designation : "Desarrollador VR"
+
+  - title : "Manuel Tirado"
+    image : "assets/images/team/4-mercadeo-mt.png"
+    designation : "Mercadeo"
+
 
 
 #-------------------------------
