@@ -1,13 +1,13 @@
 ---
 layout: page-no-banner
 title: Política de privacidad
-date: 2022-11-29
+date: 2024-02-22
 author: PortalSense
 ---
 
 Esta Política de privacidad describe Nuestras políticas y procedimientos sobre la recopilación, el uso y la divulgación de su información cuando utiliza el Servicio y le informa sobre sus derechos de privacidad y cómo la ley lo protege.
 
-Utilizamos sus datos personales para proporcionar y mejorar el Servicio. Al utilizar el Servicio, Usted acepta la recopilación y el uso de información de acuerdo con esta Política de privacidad. Esta Política de privacidad ha sido creada con la ayuda del Generador de políticas de privacidad de [TermsFeed]( https://www.termsfeed.com/privacy-policy-generator/).
+Utilizamos sus datos personales para proporcionar y mejorar el Servicio. Al utilizar el Servicio, Usted acepta la recopilación y el uso de información de acuerdo con esta Política de privacidad. Esta Política de privacidad ha sido creada con la ayuda del Generador de políticas de privacidad de [TermsFeed]( https://www.termsfeed.com/privacy-policy-generator/) y adaptada manualmente a las políticas de privacidad requeridas por nuestras aplicaciones en la [Meta Quest Store](https://www.meta.com/experiences/).
 
 ### Interpretación y definiciones
 
@@ -25,7 +25,7 @@ A los efectos de esta Política de privacidad:
 - **País** se refiere a: Colombia
 - **Dispositivo** significa cualquier dispositivo que pueda acceder al Servicio, como una computadora, un teléfono celular o una tableta digital.
 - **Los datos personales** son cualquier información relacionada con un individuo identificado o identificable.
-- **Servicio** se refiere al Sitio Web.
+- **Servicio** se refiere al Sitio Web, Aplicaciones, Servicios, o Juegos publicados en la [Meta Quest Store](https://www.meta.com/experiences/).
 - **Proveedor de servicios** significa cualquier persona física o jurídica que procesa los datos en nombre de la Compañía. Se refiere a compañías o individuos de terceros empleados por la Compañía para facilitar el Servicio, para proporcionar el Servicio en nombre de la Compañía, para realizar servicios relacionados con el Servicio o para ayudar a la Compañía a analizar cómo se utiliza el Servicio.
 - **Los Datos de uso** se refieren a los datos recopilados automáticamente, ya sea generados por el uso del Servicio o desde la propia infraestructura del Servicio (por ejemplo, la duración de una visita a la página).
 - **Sitio web** se refiere a PortalSense, accesible desde www.portalsense.com
@@ -37,7 +37,7 @@ A los efectos de esta Política de privacidad:
 
 ##### Datos personales
 
-Al utilizar Nuestro Servicio, podemos pedirle que nos proporcione cierta información de identificación personal que puede usarse para contactarlo o identificarlo. La información de identificación personal puede incluir, pero no se limita a:
+Al utilizar Nuestro Servicio, podemos pedirle que nos proporcione cierta información de identificación personal que puede usarse para contactarlo o identificarlo. La información de identificación personal puede incluir:
 
 **Datos de uso**
 
@@ -48,6 +48,18 @@ Los Datos de uso pueden incluir información como la dirección de Protocolo de 
 Cuando accede al Servicio a través de un dispositivo móvil, podemos recopilar cierta información automáticamente, incluidos, entre otros, el tipo de dispositivo móvil que utiliza, la identificación única de su dispositivo móvil, la dirección IP de su dispositivo móvil, su sistema operativo móvil, el tipo de navegador de Internet móvil que utiliza, identificadores únicos de dispositivos y otros datos de diagnóstico.
 
 También podemos recopilar información que su navegador envía cada vez que visita nuestro Servicio o cuando accede al Servicio a través de un dispositivo móvil.
+
+**Datos en nuestras aplicaciones de Realidad Virtual**
+
+Nuestras aplicaciones de realidad virtual NO recopilan información de los usuarios aparte de los datos recogidos automáticamente por la tienda [Meta Quest Store](https://www.meta.com/experiences/), cuya política de privacidad se encuentra en [este enlace](https://www.meta.com/se/en/legal/quest/terms-for-oculus-account-users/). Esta política de privacidad será actualizada tan pronto como nuestras aplicaciones de realidad virtual recopilen datos que no están especificados actualmente.
+
+Nuestras aplicaciones disponibles hasta la fecha de actualización de esta política de privacidad son:
+
+- [PortalSense](https://www.meta.com/experiences/24038115279169466/)
+- [Cable Aéreo Línea 3](https://www.meta.com/experiences/6290916637598338/)
+- [Torres del Bulevar](https://www.meta.com/experiences/6711099988994184/)
+- [Torres 360](https://www.meta.com/experiences/7541646075899905/)
+
 
 **Tecnologías de seguimiento y cookies**
 
