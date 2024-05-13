@@ -17,7 +17,7 @@ menu:
 - {name: Portafolio, link: '/portafolio'}
 - {name: Blog, link: '/blog'}
 - {name: Contacto, link: '/contacto'}
-# - {name: Acerca de, link: '/about.html'}
+# - {name: Demo, link: '/demo'}
 
 
 #-------------------------------
@@ -34,7 +34,6 @@ google-analytics: G-S8VQCQ2TWW # G-PR6BSK9SBR
 # Comment Section (Disqus)
 
 disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
-
 
 #-------------------------------
 # Hero Section
