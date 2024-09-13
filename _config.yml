@@ -18,9 +18,12 @@ defaults:
 include:
   - _pages
   - _portafolio
+  - _demos
 
 collections:
   portafolio:
+    output: true
+  demos:
     output: true
 
 sass:
